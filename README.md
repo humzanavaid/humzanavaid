@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @humzanavaid
-- 👀 I’m interested in data_analysis
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in data_scraping
+- 🌱 I’m currently improving webscraping
 - 💞️ I’m looking to collaborate on remote learning and projects
 - 📫 How to reach me www.linkedin.com/in/humza-anwar
 
